@@ -2,8 +2,6 @@
 
 A responsive React application that displays countries and their weather information. This project allows users to browse countries from around the world and check the current weather conditions for their capital cities.
 
-![World Weather Screenshot](/placeholder.svg?height=400&width=800)
-
 ## Features
 
 - **Countries Page**: Browse all countries with search and pagination
